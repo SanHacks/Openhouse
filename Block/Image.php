@@ -1,4 +1,10 @@
 <?php
+/*
+ * *
+ *  * Copyright © Gundo Sifhufhi. All rights reserved.
+ *  * See Github_Sanhacks.txt for license details.
+ *
+ */
 
 namespace Gundo\Openhouse\Block;
 
