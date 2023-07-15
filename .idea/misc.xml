@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.github.texhnolyzze.jiraworklogplugin.JiraWorklogPluginState">
+    <option name="closed" value="true" />
+    <option name="lastBranch" value="master" />
+    <option name="timers" value="{&quot;master&quot;:{&quot;total&quot;:6025110696677,&quot;updatedAtSinceEpoch&quot;:1687731383.422932408,&quot;paused&quot;:true}}" />
+    <option name="timeSeries" value="[{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1687725363.356708183,&quot;duration&quot;:6025.110696677}]" />
+  </component>
+</project>
